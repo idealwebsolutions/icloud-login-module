@@ -1,0 +1,20 @@
+{
+  "name": "icloud-login-module",
+  "version": "2.1.0",
+  "description": "creates a new icloud session",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "idealwebsolutions",
+  "license": "MIT",
+  "dependencies": {
+    "fastfall": "^1.5.1",
+    "needle": "^1.0.0",
+    "random-ua": "0.0.6",
+    "uuid": "^2.0.1"
+  },
+  "devDependencies": {
+    "standard": "^6.0.4"
+  }
+}
